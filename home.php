@@ -36,6 +36,7 @@
             <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="#">Add</a>
             </li>
+            <button class="button-23" role="button">Button 23</button>
         </ul>
     </div>
 </nav>
